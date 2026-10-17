@@ -1,57 +1,57 @@
+# Alexis Vivas
 
-# Hola, soy Alexis Vivas 👋
+**Estudiante de Ingeniería de Sistemas e Informática | Desarrollo Full Stack**
 
-### Estudiante de Ingeniería de Sistemas | Full Stack Development
+Universidad Tecnológica del Perú (UTP) · Lima, Perú  
+**Interesado en prácticas preprofesionales de desarrollo de software y Full Stack.**
 
-🎓 Universidad Tecnológica del Perú (UTP)  
-📍 Lima, Perú  
-💼 Interesado en prácticas preprofesionales 
 ---
 
-## 👨‍💻 Sobre mí
+## Sobre mí
 
-Soy estudiante de Ingeniería de Sistemas e Informática,
-con interés en el desarrollo de aplicaciones web,
-bases de datos relacionales y soluciones tecnológicas
-que resuelvan problemas reales.
+Soy estudiante de Ingeniería de Sistemas e Informática con interés en construir aplicaciones web funcionales, diseñar bases de datos relacionales y resolver problemas mediante software.
 
-Actualmente continúo fortaleciendo mis conocimientos
-en desarrollo Full Stack mediante proyectos personales
-y académicos.
+Mi aprendizaje se centra en el desarrollo Full Stack: interfaces con React y Next.js, aplicaciones con TypeScript y gestión de datos con PostgreSQL y Supabase. Complemento esta formación con proyectos académicos en Java, SQL y programación orientada a objetos.
 
-## 🛠️ Tecnologías
+## Tecnologías
 
-**Frontend**
-- React, Next.js, TypeScript
-- JavaScript, Tailwind CSS
+| Área | Tecnologías y herramientas |
+| --- | --- |
+| **Frontend** | React · Next.js · TypeScript · JavaScript · Tailwind CSS |
+| **Backend y datos** | PostgreSQL · Supabase · SQL · MySQL |
+| **Programación** | Java · Python · Programación orientada a objetos |
+| **Desarrollo y herramientas** | Git · Docker · pnpm · NetBeans |
 
-**Backend y bases de datos**
-- Supabase, PostgreSQL, SQL
-- Java, Python
+## Proyectos
 
-**Herramientas**
-- Git, Docker, pnpm
-- NetBeans, MySQL
+### Chek POS — Punto de venta SaaS B2B
+Proyecto orientado a la gestión de ventas y operaciones comerciales de bodegas y pequeños negocios.
 
-## 🚀 Proyectos en desarrollo y documentación
+**Stack:** Next.js, React, TypeScript, Zustand, Supabase y PostgreSQL.  
+**Enfoque técnico:** arquitectura multi-tenant, gestión de datos, operaciones de caja e interfaces Mobile-First.
 
-### Chek POS
-Sistema SaaS B2B orientado a la gestión comercial
-de bodegas y pequeños negocios.
+*Repositorio y documentación técnica en preparación.*
 
-Tecnologías: Next.js, React, TypeScript,
-Supabase y PostgreSQL.
+### PoeticFly — Infraestructura e-commerce
+Proyecto enfocado en la configuración y administración de canales digitales de venta.
 
-### PoeticFly
-Proyecto de infraestructura e-commerce,
-integración de servicios y gestión de dominios.
+**Herramientas:** Shopify, Etsy y administración de dominios/DNS.  
+**Enfoque:** integración de servicios comerciales y operación de plataformas e-commerce.
 
-Tecnologías: Shopify, Etsy y DNS.
+*Caso de estudio y documentación en preparación.*
 
-### Proyectos académicos UTP
-Aplicaciones y ejercicios de programación,
-bases de datos y patrones de diseño.
+### Desarrollo académico — UTP
+Ejercicios y aplicaciones universitarias relacionados con programación orientada a objetos, algoritmos, bases de datos y patrones de diseño.
 
-Tecnologías: Java, SQL y MySQL.
+**Tecnologías:** Java, SQL, MySQL, Python y C++.  
+*Selección de repositorios y documentación en preparación.*
 
-  
+## Contacto
+
+- **LinkedIn:** [Alexis Vivas](https://www.linkedin.com/in/alexis-manuel-vivas-barja-00561937b)
+- **Correo:** [alexvivas167@gmail.com](mailto:alexvivas167@gmail.com)
+- **GitHub:** [github.com/alexvivas](https://github.com/alexvivas)
+
+---
+
+*Actualmente enfocado en fortalecer mis habilidades técnicas y prepararme para prácticas preprofesionales Full Stack.*
