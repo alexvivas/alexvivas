@@ -40,11 +40,19 @@ Proyecto enfocado en la configuración y administración de canales digitales de
 
 *Caso de estudio y documentación en preparación.*
 
-### Desarrollo académico — UTP
-Ejercicios y aplicaciones universitarias relacionados con programación orientada a objetos, algoritmos, bases de datos y patrones de diseño.
+### [Sistema de Mueblería — Proyecto POO (UTP)](https://github.com/christiab9/proyecto-poo-muebles)
+Proyecto académico **realizado en equipo**, alojado en el repositorio original de Christian.
 
-**Tecnologías:** Java, SQL, MySQL, Python y C++.  
-*Selección de repositorios y documentación en preparación.*
+**Tecnologías:** Java Swing, NetBeans, JDBC y MySQL.  
+**Alcance del código:** interfaz con módulos de clientes, productos, ventas y reportes; operaciones de base de datos implementadas parcialmente.
+
+**Mi participación:** integrante y colaborador del repositorio, con [commits registrados en GitHub](https://github.com/christiab9/proyecto-poo-muebles/commits?author=alexvivas).  
+*Proyecto en revisión técnica; no se presenta como versión lista para producción.*
+
+### Otros trabajos académicos — UTP
+Ejercicios de algoritmos, bases de datos y patrones de diseño con Java, SQL, Python y C++.
+
+*Repositorios y documentación en preparación.*
 
 ## Contacto
 
