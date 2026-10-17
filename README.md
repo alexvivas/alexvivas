@@ -1,16 +1,57 @@
-## Hi there 👋
 
-<!--
-**alexvivas/alexvivas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hola, soy Alexis Vivas 👋
 
-Here are some ideas to get you started:
+### Estudiante de Ingeniería de Sistemas | Full Stack Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Universidad Tecnológica del Perú (UTP)  
+📍 Lima, Perú  
+💼 Interesado en prácticas preprofesionales 
+---
+
+## 👨‍💻 Sobre mí
+
+Soy estudiante de Ingeniería de Sistemas e Informática,
+con interés en el desarrollo de aplicaciones web,
+bases de datos relacionales y soluciones tecnológicas
+que resuelvan problemas reales.
+
+Actualmente continúo fortaleciendo mis conocimientos
+en desarrollo Full Stack mediante proyectos personales
+y académicos.
+
+## 🛠️ Tecnologías
+
+**Frontend**
+- React, Next.js, TypeScript
+- JavaScript, Tailwind CSS
+
+**Backend y bases de datos**
+- Supabase, PostgreSQL, SQL
+- Java, Python
+
+**Herramientas**
+- Git, Docker, pnpm
+- NetBeans, MySQL
+
+## 🚀 Proyectos en desarrollo y documentación
+
+### Chek POS
+Sistema SaaS B2B orientado a la gestión comercial
+de bodegas y pequeños negocios.
+
+Tecnologías: Next.js, React, TypeScript,
+Supabase y PostgreSQL.
+
+### PoeticFly
+Proyecto de infraestructura e-commerce,
+integración de servicios y gestión de dominios.
+
+Tecnologías: Shopify, Etsy y DNS.
+
+### Proyectos académicos UTP
+Aplicaciones y ejercicios de programación,
+bases de datos y patrones de diseño.
+
+Tecnologías: Java, SQL y MySQL.
+
+  
