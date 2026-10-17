@@ -24,13 +24,15 @@ Mi aprendizaje se centra en el desarrollo Full Stack: interfaces con React y Nex
 
 ## Proyectos
 
-### Chek POS — Punto de venta SaaS B2B
-Proyecto orientado a la gestión de ventas y operaciones comerciales de bodegas y pequeños negocios.
+### [CheckPOS — SaaS para bodegas y minimarkets](projects/checkpos.md)
+**Proyecto colaborativo · MVP en desarrollo.** Plataforma de punto de venta orientada al comercio barrial peruano, con un enfoque mobile-first y una arquitectura que contempla operación offline.
 
-**Stack:** Next.js, React, TypeScript, Zustand, Supabase y PostgreSQL.  
-**Enfoque técnico:** arquitectura multi-tenant, gestión de datos, operaciones de caja e interfaces Mobile-First.
+**Stack verificado:** React, TypeScript, Vite, Go, PostgreSQL, IndexedDB (Dexie) y Docker.  
+**Avance actual:** base de datos multi-tenant con RLS, autenticación y vinculación de dispositivos, pantalla de acceso mediante PIN y estructura de almacenamiento local. Los módulos de ventas, fiados y cierre de caja siguen en desarrollo.
 
-*Repositorio y documentación técnica en preparación.*
+[**Ver ficha técnica y estado de implementación →**](projects/checkpos.md) · [Repositorio original del equipo ↗](https://github.com/AriasYarangaIam/CheckPOS)
+
+*La ficha distingue el trabajo colaborativo y las aportaciones individuales que aún deben documentarse.*
 
 ### PoeticFly — Infraestructura e-commerce
 Proyecto enfocado en la configuración y administración de canales digitales de venta.
